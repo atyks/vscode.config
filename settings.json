@@ -1,0 +1,46 @@
+{
+    "editor.fontFamily": "VL ゴシック",
+    "editor.find.autoFindInSelection": true,
+    "editor.fontSize": 13,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordSeparators": "`~!@#%^&*()=-+[{]}\\|;:'\",.<>/?",
+    "explorer.openEditors.visible": 0,
+    "explorer.autoReveal": false,
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.associations": {
+        "*.inc": "php",
+        "*.tmpl": "html",
+        "*.ctp": "php"
+    },
+    "html.format.indentInnerHtml": true,
+    "php.validate.executablePath": "C:\\php7\\php.exe",
+    "php.validate.run": "onType",
+    "terminal.integrated.shell.windows": "D:\\Cygwin\\bin\\bash.exe",
+    "terminal.integrated.env.windows": {
+        "MSYSTEM": "MINGW64",
+        "CHERE_INVOKING": "1"
+    },
+    "terminal.integrated.shellArgs.windows": [
+        "-l"
+    ],
+    "terminal.integrated.cursorStyle": "line",
+    "window.closeWhenEmpty": false,
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
+    "window.titleBarStyle": "native",
+    "window.zoomLevel": 0,
+    "workbench.colorCustomizations" : {
+        // "editorWhitespace.foreground": "#aaa",
+        "statusBar.background": "#333333",
+        "statusBar.noFolderBackground": "#333333",
+        "statusBar.debuggingBackground": "#333333"
+    },
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.restoreViewState": false,
+    "workbench.startupEditor": "newUntitledFile"
+}
